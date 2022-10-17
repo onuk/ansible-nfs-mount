@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Yurii Onuk
+  description: This ansible role manages NFS mounts in the system.
+  license: license (MIT)
+
+  min_ansible_version: 2.10.8
+  platforms:
+  - name: Ubuntu
+    versions:
+     - 22.04.1
+ 
+  galaxy_tags: [nfs-mount]
+
+dependencies: []
